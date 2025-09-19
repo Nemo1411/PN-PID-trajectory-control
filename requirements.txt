@@ -1,0 +1,18 @@
+# Control System Simulation Requirements
+# PID and Proportional Navigation (PN) Missile Guidance Demo
+
+# Core dependencies
+pygame>=2.1.0
+
+# Optional: For enhanced mathematical operations (if you want to extend the simulation)
+# numpy>=1.21.0
+# matplotlib>=3.5.0
+
+# Development dependencies (uncomment if needed for development)
+# pytest>=6.0.0
+# black>=22.0.0
+# flake8>=4.0.0
+
+# System requirements:
+# - Python 3.7+
+# - Compatible with Windows, macOS, and Linux
