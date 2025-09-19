@@ -14,9 +14,7 @@ Un PID corrige en continu l’**erreur** entre trajectoire idéale et état rée
 
 ![Schéma PID](assets/pid_diagram.png)  
 
-\[
-u(t) = K_p \cdot e(t) + K_i \cdot \int e(t)\,dt + K_d \cdot \frac{de(t)}{dt}
-\]
+u(t) = K_p \cdot e(t) + K_i \cdot \int e(t) \, dt + K_d \cdot \frac{de(t)}{dt}
 
 👉 Utilisé partout : drones, moteurs, contrôle industriel, etc.
 
