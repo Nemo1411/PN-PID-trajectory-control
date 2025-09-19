@@ -85,6 +85,7 @@ PN adjusts the trajectory not by following the target directly, but by **correct
 
 ## 🕹️ Simulation
 
+![Vidéo sans titre ‐ Réalisée avec Clipchamp](https://github.com/user-attachments/assets/82a1b5a4-3021-4e36-9738-8183d873e31d)
 
 
 - **Rocket**: inertia + friction, controlled by mouse drag
