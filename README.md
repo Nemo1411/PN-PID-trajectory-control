@@ -111,7 +111,7 @@ pip install -r requirements.txt
 
 3. **Launch the simulation**:
 ```bash
-python main.py
+python missile_pn_drag_launch.py
 ```
 
 ---
